@@ -1,6 +1,8 @@
 # SuperMarket-Management-System
-This is the superMarket Management System , a DBMS project which uses the Streamlit, MYSQL. 
-The Login was given to the admin , and has 2 Interfaces , one is admin and other is employee. 
-This database schema contains the Entities as Employee , Category , Product , Offers ,Customers.The admin is able to perform the CRUD operatins on Employee and Categotry.
-The employee is able to perform the CRUD operations on Product , Offers , Category and Customers.
-This gives a friendly user interface for the bassic idea about how the data manipulation done from the front end will reflect in the backend database.
+- Developed the SuperMarket Management System, a DBMS project utilizing Streamlit and MYSQL.
+- Implemented a secure login system for administrators, granting access to two interfaces: admin and employee.
+- Designed a comprehensive database schema including entities such as Employee, Category, Product, Offers, and Customers.
+- Empowered administrators to perform CRUD operations on Employee and Category entities for efficient management.
+- Enabled employees to execute CRUD operations on Product, Offers, Category, and Customers entities, enhancing productivity.
+- Created a user-friendly interface, providing a seamless data manipulation experience from the frontend to the backend database.
+- Utilized Python, Streamlit, and MySQL as the tech stacks, showcasing proficiency in these technologies
